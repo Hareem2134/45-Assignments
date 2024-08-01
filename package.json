@@ -1,0 +1,13 @@
+{
+  "name": "45-assignments",
+  "version": "1.0.0",
+  "description": "45 Assignments of typescript (GIAIC)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
